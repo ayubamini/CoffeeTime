@@ -1,2 +1,5 @@
-# CoffeeTime
-Sololearn - Give discount on your coffee shop's menu.
+# SoloLearn - CoffeeTime
+Give discount on your coffee shop's menu.
+
+# My SoloLearn profile
+https://www.sololearn.com/profile/9084235
